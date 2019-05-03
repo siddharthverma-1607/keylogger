@@ -5,7 +5,10 @@ There are two versions of the keylogger
 >> <b>keylogger1.2</b><br>
 ->Store the log text file into the local directory<br>
 ->to end the program press 'esc' button<br>
-<br><hr color="black">
+<br>
+<svg height="210" width="500">
+  <line x1="0" y1="0" x2="2000" y2="0" style="stroke:rgb(255,0,0);stroke-width:2" />
+</svg>
 >> <b>keylogger1.4</b><br>
 ->Store the log text file into the local directory<br>
 ->Store the log text file into a ftp server<br>
